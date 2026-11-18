@@ -1,0 +1,1 @@
+window.CLIPS=["atencion", "axon", "bienvenida", "concentracion", "cronometro", "dendritas", "estres", "fin", "gimnasia", "hebb", "hendidura", "intro", "juego", "memoria", "neurona", "niveles", "nt", "plasticidad", "potencial", "racha", "receptores", "red", "respiracion", "sinapsis", "soma", "terminal"];
